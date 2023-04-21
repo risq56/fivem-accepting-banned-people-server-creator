@@ -7,7 +7,7 @@ so basicaly how to use it is pretty much simple
 
 ![image](https://user-images.githubusercontent.com/98481603/233564004-ea930613-53b1-4c34-9b46-b740aebbefd1.png)
 
-and remember to check the add button to path
+and remember to check the add Python to path button when opening the installer
 
 
 2_ you open the file setup.bat
