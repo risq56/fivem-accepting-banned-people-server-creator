@@ -10,7 +10,7 @@ so basicaly how to use it is pretty much simple
 and remember to check the add Python to path button when opening the installer
 
 
-2_ you open the file setup.bat
+2_ you start the setup.bat file
 
 ![image](https://cdn.discordapp.com/attachments/759852239371370568/1098865763525345330/image.png)
 
@@ -18,3 +18,4 @@ and remember to check the add Python to path button when opening the installer
 3_you drag and drop the folder where you want to put your artifact
 
 ![image](https://cdn.discordapp.com/attachments/759852239371370568/1098865647934513173/image.png)
+and voila now you have your own fivem artifact that let's banned people join
